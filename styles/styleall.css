@@ -56,6 +56,7 @@
 .añadir {
     position: absolute;
     display: flex;
+    cursor: pointer;
     width: 6vi;
     height: 1.8vi;
     margin-left: 10.5vi;
@@ -66,6 +67,7 @@
 .añadirtxt {
     position: absolute;
     display: flex;
+    cursor: pointer;
     font-size: 1.1vi;
     margin-left: 1.2vi;
     margin-top: 0.2vi;

@@ -1,3 +1,7 @@
+html  {
+    background-color: #e7f5f0;
+}
+
 
 .titulo {
     position: absolute;
@@ -5,6 +9,24 @@
     font-size: 2.5vi;
     margin-left: 4vi;
     margin-top: 2.5vi;
+    color: #087f5b;
+}
+
+.titulo2 {
+    position: absolute;
+    display: flex;
+    font-size: 2.5vi;
+    margin-left: 25vi;
+    margin-top: 2.5vi;
+    color: #087f5b;
+}
+
+.titulo3 {
+    position: absolute;
+    display: flex;
+    font-size: 2vi;
+    margin-left: 25vi;
+    margin-top: 10vi;
     color: #087f5b;
 }
 

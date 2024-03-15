@@ -111,3 +111,112 @@ html  {
     overflow: scroll;
     overflow-x: hidden;
 }
+
+@media (max-width: 430px){
+    .tag {
+        position: absolute;
+        display: flex;
+        cursor: pointer;
+        border-radius: 2vi;
+        border-style: solid;
+        border-width: 0.15vi;
+        border-color: #087f5b;
+        width: 98vi;
+        height: 100vi;
+        margin-left: -1vi;
+        margin-top: 85vi;
+        overflow: scroll;
+        overflow-x: hidden;
+    }
+    .titulo {
+        position: absolute;
+        display: flex;
+        font-size: 15.5vi;
+        margin-left: 8vi;
+        margin-top: 8.5vi;
+        color: #087f5b;
+    }
+    .titulo2 {
+        position: absolute;
+        display: flex;
+        text-align: center;
+        font-size: 8.5vi;
+        margin-left: 15vi;
+        margin-top: 74.5vi;
+        color: #087f5b;
+    }
+    
+    .titulo3 {
+        position: absolute;
+        display: flex;
+        font-size: 4vi;
+        margin-left: 5vi;
+        margin-top: 90vi;
+        color: #087f5b;
+    }
+    
+    .todos {
+        position: absolute;
+        display: flex;
+        cursor: pointer;
+        user-select: none;
+        font-size: 4.5vi;
+        margin-left: 30vi;
+        margin-top: 38vi;
+        color: #087f5b;
+    }
+    
+    .abrigos {
+        position: absolute;
+        display: flex;
+        cursor: pointer;
+        user-select: none;
+        font-size: 4.5vi;
+        margin-left: 40vi;
+        margin-top: 46vi;
+        color: #087f5b;
+    }
+    
+    .camisetas {
+        position: absolute;
+        display: flex;
+        cursor: pointer;
+        user-select: none;
+        font-size: 4.5vi;
+        margin-left: 38vi;
+        margin-top: 53vi;
+        color: #087f5b;
+    }
+    
+    .pantalones {
+        position: absolute;
+        display: flex;
+        cursor: pointer;
+        user-select: none;
+        font-size: 4.5vi;
+        margin-left: 37.5vi;
+        margin-top: 60vi;
+        color: #087f5b;
+    }
+    
+    .carritos {
+        position: absolute;
+        display: flex;
+        cursor: pointer;
+        user-select: none;
+        font-size: 4.5vi;
+        margin-left: 40vi;
+        margin-top: 66vi;
+        color: #087f5b;
+    }
+    .copy {
+        position: absolute;
+        display: flex;
+        cursor: pointer;
+        user-select: none;
+        font-size: 8.5vi;
+        margin-left: 20.3vi;
+        margin-top: 200vi;
+        color: #087f5b;
+    }
+}

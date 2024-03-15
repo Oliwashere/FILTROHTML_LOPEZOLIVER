@@ -1,0 +1,240 @@
+.menu {
+    position: absolute;
+    display: flex;
+    width: 97.8vi;
+    height: 95vi;
+    border-width: 0.2vi;
+    border-radius: 2vi;
+    border-style: solid;
+    border-color: #ffffff;
+    overflow-x: hidden;
+}
+
+.one {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 4vi;
+    margin-top: 2vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+.img {
+    position: relative;
+    display: flex;
+    margin-left: 2vi;
+}
+.border { 
+    position: absolute;
+    display: flex;
+    width: 17.55vi;
+    height: 4vi;
+    margin-top: 14vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #087f5b;
+    background-color: #ffffff;
+}
+.producto {
+    position: absolute;
+    display: flex;
+    font-size: 1vi;
+    color: #087f5b;
+    margin-left: 1vi;
+}
+.precio {
+    position: absolute;
+    display: flex;
+    font-size: 1.3vi;
+    color: #087f5b;
+    margin-left: 2vi;
+    margin-top: 2.5vi;
+}
+.añadir {
+    position: absolute;
+    display: flex;
+    width: 6vi;
+    height: 1.8vi;
+    margin-left: 10.5vi;
+    margin-top: 1.7vi;
+    border-radius:0.2vi;
+    background-color: #087f5b;
+}
+.añadirtxt {
+    position: absolute;
+    display: flex;
+    font-size: 1.1vi;
+    margin-left: 1.2vi;
+    margin-top: 0.2vi;
+    color: #ffffff;
+}
+
+.two {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 28vi;
+    margin-top: 2vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.three {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 52vi;
+    margin-top: 2vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.four {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 76vi;
+    margin-top: 2vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.five {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 4vi;
+    margin-top: 25vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.six {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 28vi;
+    margin-top: 25vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.seven {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 52vi;
+    margin-top: 25vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.eight {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 76vi;
+    margin-top: 25vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.nine {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 4vi;
+    margin-top: 48vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.ten {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 28vi;
+    margin-top: 48vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.eleven {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 52vi;
+    margin-top: 48vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.twelve {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 76vi;
+    margin-top: 48vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.thirteen {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 4vi;
+    margin-top: 71vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.fourteen {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 28vi;
+    margin-top: 71vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}
+
+.fifteen {
+    position: absolute;
+    display: flex;
+    width: 18vi;
+    height: 18vi;
+    margin-left: 52vi;
+    margin-top: 71vi;
+    border-radius: 1.5vi;
+    border-style: solid;
+    border-color: #6d6d6d;
+}

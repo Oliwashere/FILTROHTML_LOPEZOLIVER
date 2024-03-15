@@ -1,0 +1,85 @@
+html {
+    
+}
+
+.container {
+
+}
+
+.titulo {
+    position: absolute;
+    display: flex;
+    font-size: 2.5vi;
+    margin-left: 4vi;
+    margin-top: 2.5vi;
+    color: #087f5b;
+}
+
+.todos {
+    position: absolute;
+    display: flex;
+    font-size: 1.5vi;
+    margin-left: 7vi;
+    margin-top: 13vi;
+    color: #087f5b;
+}
+
+.abrigos {
+    position: absolute;
+    display: flex;
+    font-size: 1.5vi;
+    margin-left: 7vi;
+    margin-top: 17vi;
+    color: #087f5b;
+}
+
+.camisetas {
+    position: absolute;
+    display: flex;
+    font-size: 1.5vi;
+    margin-left: 7vi;
+    margin-top: 21vi;
+    color: #087f5b;
+}
+
+.pantalones {
+    position: absolute;
+    display: flex;
+    font-size: 1.5vi;
+    margin-left: 7vi;
+    margin-top: 25vi;
+    color: #087f5b;
+}
+
+.carritos {
+    position: absolute;
+    display: flex;
+    font-size: 1.5vi;
+    margin-left: 7vi;
+    margin-top: 33vi;
+    color: #087f5b;
+}
+
+.copy {
+    position: absolute;
+    display: flex;
+    font-size: 1.5vi;
+    margin-left: 5.3vi;
+    margin-top: 41vi;
+    color: #087f5b;
+}
+
+.all {
+    position: absolute;
+    display: flex;
+    border-radius: 2vi;
+    border-style: solid;
+    border-width: 0.15vi;
+    border-color: #087f5b;
+    width: 73vi;
+    height: 40vi;
+    margin-left: 23vi;
+    margin-top: 5vi;
+    overflow: scroll;
+    overflow-x: hidden;
+}
